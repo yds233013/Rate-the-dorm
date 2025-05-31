@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Rate-Your-Dorm
 
-A forum application made using the MERN stack that lets users rate their dorms and sort reviews by colleges.
+A MERN stack web app that enables students to rate and review dorms, with features for filtering by college and browsing community feedback.
 
 Contains functionality such as authentication, sorting by colleges, searching by dorms, comments, and global likes.
 
